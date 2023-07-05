@@ -1,0 +1,2 @@
+Please get your Google Map API to test, you can get it from https://developers.google.com/maps/documentation/javascript/get-api-key.
+There are 2 files to place the key, search.blade.php, RestaurantMap.php (controller).
